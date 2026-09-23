@@ -1,0 +1,135 @@
+[submodule "20 - Resources/AI Skills/MyManus"]
+	path = 20 - Resources/AI Skills/MyManus
+	url = https://github.com/emsi/MyManus
+[submodule "20 - Resources/AI Skills/agenticSeek"]
+	path = 20 - Resources/AI Skills/agenticSeek
+	url = https://github.com/Fosowl/agenticSeek
+[submodule "20 - Resources/AI Skills/ai-manus"]
+	path = 20 - Resources/AI Skills/ai-manus
+	url = https://github.com/Simpleyyt/ai-manus
+[submodule "20 - Resources/AI Skills/anthropic-skills"]
+	path = 20 - Resources/AI Skills/anthropic-skills
+	url = https://github.com/anthropics/skills
+[submodule "20 - Resources/AI Skills/awesome-claude-skills"]
+	path = 20 - Resources/AI Skills/awesome-claude-skills
+	url = https://github.com/ComposioHQ/awesome-claude-skills.git
+[submodule "20 - Resources/AI Skills/claude-code-templates"]
+	path = 20 - Resources/AI Skills/claude-code-templates
+	url = https://github.com/davila7/claude-code-templates
+[submodule "20 - Resources/AI Skills/claude-token-efficient"]
+	path = 20 - Resources/AI Skills/claude-token-efficient
+	url = https://github.com/drona23/claude-token-efficient.git
+[submodule "20 - Resources/AI Skills/everything-claude-code"]
+	path = 20 - Resources/AI Skills/everything-claude-code
+	url = https://github.com/affaan-m/everything-claude-code.git
+[submodule "20 - Resources/AI Skills/gemini-cli"]
+	path = 20 - Resources/AI Skills/gemini-cli
+	url = https://github.com/google-gemini/gemini-cli.git
+[submodule "20 - Resources/AI Skills/gemini-skills"]
+	path = 20 - Resources/AI Skills/gemini-skills
+	url = https://github.com/google-gemini/gemini-skills.git
+[submodule "20 - Resources/AI Skills/google-gemini-cookbook"]
+	path = 20 - Resources/AI Skills/google-gemini-cookbook
+	url = https://github.com/google-gemini/cookbook
+[submodule "20 - Resources/AI Skills/manus-deep-research-gist"]
+	path = 20 - Resources/AI Skills/manus-deep-research-gist
+	url = https://gist.github.com/db0a9695b3ca7609c9b1a08dcbf872c9
+[submodule "20 - Resources/AI Skills/manus-skills"]
+	path = 20 - Resources/AI Skills/manus-skills
+	url = https://github.com/yuanqi99/manus-skills
+[submodule "20 - Resources/AI Skills/meta-ai-api"]
+	path = 20 - Resources/AI Skills/meta-ai-api
+	url = https://github.com/Strvm/meta-ai-api
+[submodule "20 - Resources/AI Skills/openclaw-skill-manus"]
+	path = 20 - Resources/AI Skills/openclaw-skill-manus
+	url = https://github.com/disi3r/openclaw-skill-manus
+[submodule "20 - Resources/AI Skills/openclaw-skills"]
+	path = 20 - Resources/AI Skills/openclaw-skills
+	url = https://github.com/openclaw/skills
+[submodule "20 - Resources/AI Skills/remotion"]
+	path = 20 - Resources/AI Skills/remotion
+	url = https://github.com/remotion-dev/remotion.git
+[submodule "20 - Resources/AI Skills/salesably-marketplace"]
+	path = 20 - Resources/AI Skills/salesably-marketplace
+	url = https://github.com/Salesably/salesably-marketplace.git
+[submodule "20 - Resources/AI Skills/videodb-skills"]
+	path = 20 - Resources/AI Skills/videodb-skills
+	url = https://github.com/video-db/skills.git
+[submodule "OmniRoute"]
+	path = OmniRoute
+	url = https://github.com/diegosouzapw/OmniRoute.git
+[submodule "SkillSpector"]
+	path = SkillSpector
+	url = https://github.com/NVIDIA/SkillSpector.git
+[submodule "arcads-claude-code"]
+	path = arcads-claude-code
+	url = https://github.com/krusemediallc/arcads-claude-code.git
+[submodule "automaton"]
+	path = automaton
+	url = https://github.com/Conway-Research/automaton.git
+[submodule "caveman"]
+	path = caveman
+	url = https://github.com/JuliusBrussee/caveman.git
+[submodule "claude-mem-repo"]
+	path = claude-mem-repo
+	url = https://github.com/thedotmack/claude-mem.git
+[submodule "claude-plugins-official-claude-code-setup"]
+	path = claude-plugins-official-claude-code-setup
+	url = https://github.com/anthropics/claude-plugins-official.git
+[submodule "claude-video"]
+	path = claude-video
+	url = https://github.com/bradautomates/claude-video.git
+[submodule "claude-vision"]
+	path = claude-vision
+	url = https://github.com/mikefutia/claude-vision.git
+[submodule "cloud-sql-sqlserver"]
+	path = cloud-sql-sqlserver
+	url = https://github.com/gemini-cli-extensions/cloud-sql-sqlserver.git
+[submodule "coding-notes"]
+	path = coding-notes
+	url = https://github.com/methylDragon/coding-notes.git
+[submodule "elevenlabs-agents"]
+	path = elevenlabs-agents
+	url = https://github.com/duvoai/elevenlabs-agents.git
+[submodule "headroom"]
+	path = headroom
+	url = https://github.com/headroomlabs-ai/headroom.git
+[submodule "hermes-agent"]
+	path = hermes-agent
+	url = https://github.com/NousResearch/hermes-agent.git
+[submodule "higgsfield-ai-prompt-skill"]
+	path = higgsfield-ai-prompt-skill
+	url = https://github.com/OSideMedia/higgsfield-ai-prompt-skill.git
+[submodule "higgsfield-claude-skills"]
+	path = higgsfield-claude-skills
+	url = https://github.com/AKCodez/higgsfield-claude-skills.git
+[submodule "nanobanana"]
+	path = nanobanana
+	url = https://github.com/gemini-cli-extensions/nanobanana.git
+[submodule "next-devtools-mcp"]
+	path = next-devtools-mcp
+	url = https://github.com/vercel/next-devtools-mcp.git
+[submodule "one-skill-to-rule-them-all"]
+	path = one-skill-to-rule-them-all
+	url = https://github.com/rebelytics/one-skill-to-rule-them-all.git
+[submodule "open-design"]
+	path = open-design
+	url = https://github.com/nexu-io/open-design.git
+[submodule "oracledb"]
+	path = oracledb
+	url = https://github.com/gemini-cli-extensions/oracledb.git
+[submodule "security"]
+	path = security
+	url = https://github.com/gemini-cli-extensions/security.git
+[submodule "skills"]
+	path = skills
+	url = https://github.com/higgsfield-ai/skills.git
+[submodule "spanner"]
+	path = spanner
+	url = https://github.com/gemini-cli-extensions/spanner.git
+[submodule "stitch"]
+	path = stitch
+	url = https://github.com/gemini-cli-extensions/stitch.git
+[submodule "workspace"]
+	path = workspace
+	url = https://github.com/gemini-cli-extensions/workspace.git
